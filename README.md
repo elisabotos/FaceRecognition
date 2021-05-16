@@ -2,7 +2,6 @@
 
 Resurse:
 https://realpython.com/face-recognition-with-python/
-
 https://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html
 
 
