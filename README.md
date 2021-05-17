@@ -23,4 +23,5 @@ Cerințe minimale:
 Cum se ruleaza scriptul:
 
 ./python photo2.png haarcascade_frontalface_default.xml  // Pentru prima poza
+
 ./python photo3.jpg haarcascade_frontalface_default.xml  // Pentru a doua poza
