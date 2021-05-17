@@ -19,3 +19,8 @@ Cerințe minimale:
 1. Aplicare algoritm de recunoaștere facială pe o imagine specificată ca și parametru.
 2. Marcarea fețelor identificate și salvarea lor în imagini separate.
 3. Afișarea numărului total de fețe identificate.
+
+Cum se ruleaza scriptul:
+
+./python photo2.png haarcascade_frontalface_default.xml  // Pentru prima poza
+./python photo3.jpg haarcascade_frontalface_default.xml  // Pentru a doua poza
